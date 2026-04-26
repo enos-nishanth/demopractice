@@ -1,4 +1,8 @@
 vanakam da maple kbt la irrudhu
+<<<<<<< HEAD
 Enos
+=======
+kamalesh
+>>>>>>> origin/b1
 
 ena okay laaa?
